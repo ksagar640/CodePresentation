@@ -14,7 +14,4 @@ namespace ColorCoder{
 			printer.print();
 		}
 	}
-	public interface Iprintable{
-		void print();
-	}
 }
